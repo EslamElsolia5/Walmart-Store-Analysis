@@ -1,13 +1,13 @@
-# 📊 Walmart Sales Analysis Dashboard with Power BI
+# Walmart Sales Analysis Dashboard with Power BI
 
-## 📌 Project Overview
+## Project Overview
 This project is an interactive dashboard developed using **Power BI** to analyze Walmart sales data from **2011 to 2014**. The report includes three main dashboards: **Executive Dashboard**, **Products Dashboard**, and **Customers Dashboard**.
 
 ---
 
-## 🧩 Dashboard Structure
+## Dashboard Structure
 
-### 1️⃣ Executive Dashboard
+### 1- Executive Dashboard
 - **Key Performance Indicators (KPIs):**
   - Total Transactions (25K)
   - Total Revenue ($62M)
@@ -22,7 +22,7 @@ This project is an interactive dashboard developed using **Power BI** to analyze
 
 ---
 
-### 2️⃣ Products Dashboard
+### 2- Products Dashboard
 - **Interactive Features:**
   - Select a product from the Executive Dashboard to view detailed information here.
   - Option buttons to switch between previous month's metrics: Transactions, Sales, Revenue, Profit.
@@ -34,7 +34,7 @@ This project is an interactive dashboard developed using **Power BI** to analyze
 
 ---
 
-### 3️⃣ Customers Dashboard
+### 3- Customers Dashboard
 - **Insights:**
   - Monthly and weekly customer trends from 2011 to 2014, with a **forecast up to 2024**.
   - Bar chart showing the top customers based on transactions, sales, revenue, and profit.
@@ -42,7 +42,7 @@ This project is an interactive dashboard developed using **Power BI** to analyze
 
 ---
 
-## 🛠️ Features
+## Features
 - Interactive navigation buttons across dashboards.
 - Clear filter reset button.
 - Professionally designed dark-themed interface.
@@ -52,14 +52,14 @@ This project is an interactive dashboard developed using **Power BI** to analyze
 ---
 
 
-## 📁 Project Files
+## Project Files
 - `Sales_Dashboard.pbix`: Main Power BI file.
 - `dataset.csv / Excel`: The dataset used (if included).
 - Dashboard screenshots.
 
 ---
 
-## 🧠 Tools Used
+## Tools Used
 - Microsoft Power BI
 - DAX for calculated measures
 - Forecasting tools
@@ -69,9 +69,9 @@ This project is an interactive dashboard developed using **Power BI** to analyze
 
 ---
 
-## 📬 Contact
+## Contact
 **Eslam Ehab Elsolia**  
 [https://www.linkedin.com/in/eslam-elsolia-0a72011aa/](#)  
-📧 Email: [eslam.elsolia5@gmail.com]
+Email: [eslam.elsolia5@gmail.com]
 
 ---
